@@ -1,0 +1,16 @@
+# USE THIS WHEN YOU ARE RUNNING A PROJECT
+
+1. python3 -m venv .venv
+
+# SETTING UP A VIRTUAL ENVIRONMENT
+2. source .venv/bin/activate
+
+3. pip install Django
+
+4. pip show Django
+
+# GET OUT
+5. deactivate
+
+# GET BACK
+6. source .venv/bin/activate

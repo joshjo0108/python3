@@ -1,0 +1,5 @@
+# INSTALL ipython
+pip install ipython
+
+# RUN ipython
+ipython

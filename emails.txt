@@ -1,0 +1,7 @@
+# EX) SCRAPPING DATA FROM EMAIL
+
+email1@gmail.com
+email2@gmail.com
+email3@gmail.com
+jon@hotmail.com
+gully@gmail.com
